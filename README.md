@@ -1,2 +1,2 @@
 # best-repo-ever
-# commment in myfeaturebranch zmena
+# commment in myfeaturebranch druha zmena
